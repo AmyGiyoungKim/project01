@@ -1,5 +1,8 @@
 package com.project.controller;
 
-public class GYController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class GYController {
+	
 }
